@@ -23,8 +23,6 @@ O projeto utiliza a arquitetura Medallion:
 • Delta Lake
 • Dashboard e visualização de dados
 
-Remova da lista qualquer tecnologia que não tenha sido efetivamente utilizada.
-
 # Dashboard Executivo
 
 O dashboard reúne análises para responder a perguntas de negócio, como:
