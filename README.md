@@ -51,6 +51,7 @@ O desenvolvimento do projeto permitiu praticar conceitos de processamento e orga
 - Consulte o notebook pipeline_marketplace.ipynb para acompanhar o código e as etapas do processamento.
 - Consulte os arquivos CSV para conhecer as bases utilizadas.
 - Veja o dashboard no Databricks ou na imagem incluída no repositório, se disponível.
+- Link no Databricks: https://dbc-ad113cee-c571.cloud.databricks.com/dashboardsv3/01f1d878540a1651a03853cb4d44a693/published?o=7474644975325385
 
 ## Autoria
 
